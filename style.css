@@ -51,7 +51,7 @@ blockquote > #opsL{text-align:right;font-size:12px;font-weight:400;line-height:0
 
 #Content{animation-name:none;animation-duration: 3s;animation-iteration-count: infinite;position:relative;opacity:0;margin-top:50px;width:100%;height:180px;transition:all .7s ease;}
 #Content > *{display:flex;align-items:center;text-align:center;justify-content:center;margin-top:1px;}
-.kumpulanstiker > img{display:none;background: rgba(255, 255, 255, 0.7);box-shadow: 0 4px 30px rgba(255,255,255, 0.3);backdrop-filter: blur(5px);-webkit-backdrop-filter: blur(5px);border: 1px solid rgba(255, 255, 255, 0.3);border-radius: 10%;padding:10px;width:85px;height:85px;margin-top:20px;}
+.kumpulanwp > img{display:none;background: rgba(255, 255, 255, 0.7);box-shadow: 0 4px 30px rgba(255,255,255, 0.3);backdrop-filter: blur(5px);-webkit-backdrop-filter: blur(5px);border: 1px solid rgba(255, 255, 255, 0.3);border-radius: 10%;padding:10px;width:85px;height:85px;margin-top:20px;}
 #ftAwal > img{width:130px;height:130px;margin-bottom:50px;}
 #fotostiker{opacity:.1;transition:all 1s ease;transform: scale(.1);}
 #imglewat{margin:30px 0;opacity:0;max-width:520px;height:100px;position:absolute;transition:all 1s ease;}

@@ -14,7 +14,6 @@ function bqhilang(){wallpaper.style="transform: scale(2);";bodyblur.style="opaci
 aktigeser=0;thisgeser=1;
 document.getElementById("bq").onclick = function() {
   if(aktigeser==1){
-    document.getElementById('pergeseran').scrollLeft += 300;
     setTimeout(kalimatakhir,400);hsementara();
   }
 }
